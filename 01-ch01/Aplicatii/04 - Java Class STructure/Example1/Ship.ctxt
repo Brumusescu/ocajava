@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=
+comment1.target=java.lang.String\ getShipType()
+comment2.params=shipType
+comment2.target=void\ setShipType(java.lang.String)
+comment3.params=
+comment3.target=void\ dockShip()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
