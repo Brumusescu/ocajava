@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-04T19:20:37</date>
+  <millis>1517764837607</millis>
+  <sequence>0</sequence>
+  <logger>OCAJ Logger</logger>
+  <level>INFO</level>
+  <class>TestClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>
+ This is a logged information message. </message>
+</record>
+</log>
