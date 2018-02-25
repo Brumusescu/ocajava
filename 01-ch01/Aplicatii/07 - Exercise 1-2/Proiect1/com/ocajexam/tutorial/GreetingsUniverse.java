@@ -10,5 +10,6 @@ public class GreetingsUniverse {
         Earth e = new Earth();
         Mars m  = new Mars();
         Venus v = new Venus();
+        
     }
 }
