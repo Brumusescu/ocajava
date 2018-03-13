@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fish
+comment1.params=
+comment1.target=java.lang.String\ getTypeOfFish()
+comment2.params=type
+comment2.target=void\ setTypeOfFish(java.lang.String)
+numComments=3
