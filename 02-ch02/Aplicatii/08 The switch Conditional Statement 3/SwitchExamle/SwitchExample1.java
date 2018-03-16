@@ -19,5 +19,32 @@ public class SwitchExample1
                 System.out.println("Artificial bait");
                 break;
         }
+        
+        System.out.println();
+        
+        switch(bait) {
+            default:
+                System.out.println("No bait");
+            case FRESH:
+                System.out.println("Fresh bait");
+            case SALTED:
+                System.out.println("Salted bait");
+            case ARTIFICIAL:
+                System.out.println("Artificial bait");
+        }
+        
+        
+        System.out.println();
+        
+        switch(bait) {
+            case FRESH:
+                System.out.println("Fresh bait");
+            case SALTED:
+                System.out.println("Salted bait");
+            default:
+                System.out.println("No bait");
+            case ARTIFICIAL:
+                System.out.println("Artificial bait");
+        }
     }
 }
