@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Exercise2_1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=val
+comment2.target=void\ intSwitchExample(int)
+comment3.params=val
+comment3.target=void\ charSwitchExample(char)
+comment4.params=val
+comment4.target=void\ byteSwitchExample(byte)
+numComments=5
