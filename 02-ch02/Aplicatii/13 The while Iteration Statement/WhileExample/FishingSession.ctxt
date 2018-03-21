@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FishingSession
+comment1.params=session
+comment1.target=void\ setSession(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSession()
+comment3.params=
+comment3.target=void\ castForFish()
+numComments=4
